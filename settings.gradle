@@ -1,0 +1,3 @@
+rootProject.name='PhotoFilter'
+include ':app'
+include ':openCVLibrary347'
